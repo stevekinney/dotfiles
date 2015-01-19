@@ -1,0 +1,23 @@
+# Aliases
+
+alias postgres="postgres -D /usr/local/var/postgres"
+alias hljs="pbpaste | highlight --syntax=rb --font-size 36 -O rtf | pbcopy"
+alias nign="echo -e "node_modules\n*.un~\nbower_components\n.DS_Store" >> .gitignore"
+
+alias proj="cd ~/Projects"
+alias desk="cd ~/Desktop"
+
+alias bt="broccoli-taco"
+
+alias turing="cd ~/Turing"
+alias today="cd ~/Turing/today"
+alias lp="cd ~/Turing/lesson_plans"
+alias ros="cd ~/Turing/roster"
+
+alias eee="cd ~/Dropbox/Elements"
+alias todo="vim ~/Dropbox/Elements/Workflow.txt"
+alias jsconf="vim ~/Dropbox/Elements/JSConf.txt"
+alias ec="vim ~/Dropbox/Elements/EmberConf.txt"
+
+alias als="vim ~/.aliases"
+
